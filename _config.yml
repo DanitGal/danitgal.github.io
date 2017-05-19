@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Danit Gal 
 tagline:          'The new ethics of AI'
-description:      'Existing at the nexus of China, AI and the emergening standards of ethics in AI, Danit Gal forges international partnerships between key stakeholders from her base in Beijing.' 
+description:      'Insert very nice self-description.' 
 url:              http://danitgal.com
 baseurl:          /
 
@@ -24,5 +24,4 @@ paginate:         5
 
 github:           https://github.com/danitgal
 
-  gems:           [jekyll-paginate]
-  
+gems:           [jekyll-paginate]
