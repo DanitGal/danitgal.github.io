@@ -22,6 +22,6 @@ paginate:         5
 #  Custom vars
 #  version:          2.1.0
 
-github:           https://github.com/danitgal
+# github:           https://github.com/danitgal
 
 gems:           [jekyll-paginate]
